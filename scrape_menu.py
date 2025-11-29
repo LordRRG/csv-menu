@@ -1,3 +1,12 @@
+"""
+Optional scraper: this script is useful if you want to automate fetching the DPSI weekly menu
+and generate `dpsiedge_week_menu.csv`. Note: The repo currently keeps the CSV manually updated; run
+this script only if you want to regenerate that CSV programmatically.
+
+If you maintain the CSV manually and host it (e.g., GitHub Pages), the extension can read it
+without needing to run this script. This script can be used by an optional CI workflow.
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -116,6 +125,8 @@ def save_to_csv(menu, filename="dpsiedge_week_menu.csv"):
         lower = c.strip().lower()
         if lower.startswith('menu from'):
             return False
+        # If your menu contains an explicit 'Allergens' category that you don't want in the CSV,
+        # this line filters it out; remove if you prefer to include an Allergens column.
         if 'allergen' in lower or 'intolerance' in lower:
             return False
         return True
