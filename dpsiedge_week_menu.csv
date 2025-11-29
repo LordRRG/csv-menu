@@ -1,13 +1,13 @@
-Category,Subcategory,Monday,Tuesday,Wednesday,Thursday,Friday,Allergens/Intolerance
-BREAKFAST,Morning Drink,Veg Manchow soup,Veg sweet corn soup,Chocolate milk,Rasam,Chocolate milk,Lactose
-BREAKFAST,Fruit,Apple,Guava,Orange,Banana,Mix fruit,
-BREAKFAST,Morning Snack,Wheat Kathi roll with green chutney,Spinach corn sandwich in wheat bread,Matar with wheat kulcha,Aloo onion parantha with tomato chutney,Veg Indori poha with chutney,
-LUNCH,Main course - Dish 1,Rajma raseela,Black masoor tadka,Moong masoor dal tadka,Black chana curry,Medhu vada,Mushroom
-LUNCH,Main course - Dish 2,Turnip bharta,Mix veg,Kadai paneer,Aloo methi,Samber,
-LUNCH,Main course - Bread,Millet roti,Missi roti,Beetroot roti,Ajwain roti,Red sauce pasta,
-LUNCH,Main course - Rice,Steamed rice,Steamed rice,Steamed rice,Turmeric jeera rice,Spinach pinwheel,Nuts
-LUNCH,Accompaniments,Dahi vada,Plain curd,Boondi raita,Pineapple raita,Coconut chutney,
-LUNCH,Accompaniments 2,Coconut & veg finger salad,Chickpea & potato veg salad,Sprouts salad added with peanuts,Greek salad,Kausambri salad,Nuts + Lactose
-LUNCH,Dessert,,Gulab jamun*,Jalebi*,Sooji Halwa*,Brownie*,
-EVENING SNACK,Snack,Oats & jaggery cookies,Wheat mathri,Cheese balls with salsa,Popcorn,,Lactose + Mushroom
-EVENING SNACK,Evening Drink,Mint Lemonade,Kesar milk,Lemonade,Vanilla milk,Fresh mix fruit juice,
+Category,Subcategory,Monday,Tuesday,Wednesday,Thursday,Friday
+BREAKFAST,Morning Drink,Veg Manchow soup,Veg sweet corn soup,Chocolate milk,Rasam,Chocolate milk
+BREAKFAST,Fruit,Apple,Guava,Orange,Banana,Mix fruit
+BREAKFAST,Morning Snack,Wheat Kathi roll with green chutney,Spinach corn sandwich in wheat bread,Matar with wheat kulcha,Aloo onion parantha with tomato chutney,Veg Indori poha with chutney
+LUNCH,Main course - Dish 1,Rajma raseela,Black masoor tadka,Moong masoor dal tadka,Black chana curry,Medhu vada
+LUNCH,Main course - Dish 2,Turnip bharta,Mix veg,Kadai paneer,Aloo methi,Samber
+LUNCH,Main course - Bread,Millet roti,Missi roti,Beetroot roti,Ajwain roti,Red sauce pasta
+LUNCH,Main course - Rice,Steamed rice,Steamed rice,Steamed rice,Turmeric jeera rice,Spinach pinwheel
+LUNCH,Accompaniments,Dahi vada,Plain curd,Boondi raita,Pineapple raita,Coconut chutney
+LUNCH,Accompaniments 2,Coconut & veg finger salad,Chickpea & potato veg salad,Sprouts salad added with peanuts,Greek salad,Kausambri salad
+LUNCH,Dessert,,Gulab jamun*,Jalebi*,Sooji Halwa*,Brownie*
+EVENING SNACK,Snack,Oats & jaggery cookies,Wheat mathri,Cheese balls with salsa,Popcorn,
+EVENING SNACK,Evening Drink,Mint Lemonade,Kesar milk,Lemonade,Vanilla milk,Fresh mix fruit juice
