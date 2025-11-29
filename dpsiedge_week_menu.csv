@@ -1,6 +1,13 @@
-Day,Accompaniments,Coconut & veg finger salad,Dessert,EVENING SNACK,Evening Drink,Fruit,LUNCH,Millet roti,Morning Snack,Steamed rice,Turnip bharta
-Monday,Dahi vada,Chickpea & potato veg salad,,Snack,Mint Lemonade,Apple,Main course,Missi roti,Wheat Kathi roll with green chutney,Steamed rice,Mix veg
-Tuesday,Plain curd,Sprouts salad added with peanuts,Gulab jamun*,Oats & jaggery cookies,Kesar milk,Guava,Rajma raseela,Beetroot roti,Spinach corn sandwich in wheat bread,Steamed rice,Kadai paneer
-Wednesday,Boondi raita,Greek salad,Jalebi*,Wheat mathri,Lemonade,Orange,Black masoor tadka,Ajwain roti,Matar with wheat kulcha,Turmeric jeera rice,Aloo methi
-Thursday,Pineapple raita,Kausambri salad,Sooji Halwa*,Cheese balls with salsa,Vanilla milk,Banana,Moong masoor dal tadka,Red sauce pasta,Aloo onion parantha with tomato chutney,Spinach pinwheel,Samber
-Friday,Coconut chutney,Nuts +Lactose,Brownie*,Popcorn,Fresh mix fruit juice,Mix fruit,Black chana curry,Nuts,Veg Indori poha with chutney,,
+Category,Subcategory,Monday,Tuesday,Wednesday,Thursday,Friday,Allergens/Intolerance
+BREAKFAST,Morning Drink,Veg Manchow soup,Veg sweet corn soup,Chocolate milk,Rasam,Chocolate milk,Lactose
+BREAKFAST,Fruit,Apple,Guava,Orange,Banana,Mix fruit,
+BREAKFAST,Morning Snack,Wheat Kathi roll with green chutney,Spinach corn sandwich in wheat bread,Matar with wheat kulcha,Aloo onion parantha with tomato chutney,Veg Indori poha with chutney,
+LUNCH,Main course - Dish 1,Rajma raseela,Black masoor tadka,Moong masoor dal tadka,Black chana curry,Medhu vada,Mushroom
+LUNCH,Main course - Dish 2,Turnip bharta,Mix veg,Kadai paneer,Aloo methi,Samber,
+LUNCH,Main course - Bread,Millet roti,Missi roti,Beetroot roti,Ajwain roti,Red sauce pasta,
+LUNCH,Main course - Rice,Steamed rice,Steamed rice,Steamed rice,Turmeric jeera rice,Spinach pinwheel,Nuts
+LUNCH,Accompaniments,Dahi vada,Plain curd,Boondi raita,Pineapple raita,Coconut chutney,
+LUNCH,Accompaniments 2,Coconut & veg finger salad,Chickpea & potato veg salad,Sprouts salad added with peanuts,Greek salad,Kausambri salad,Nuts + Lactose
+LUNCH,Dessert,,Gulab jamun*,Jalebi*,Sooji Halwa*,Brownie*,
+EVENING SNACK,Snack,Oats & jaggery cookies,Wheat mathri,Cheese balls with salsa,Popcorn,,Lactose + Mushroom
+EVENING SNACK,Evening Drink,Mint Lemonade,Kesar milk,Lemonade,Vanilla milk,Fresh mix fruit juice,
